@@ -167,6 +167,6 @@ Features planned for future versions:
 
 ## Author
 
-Built by [Your Name] as a Python Basics lab project. CyPass stands for Cybersecurity Password Auditor.
+Built by JM Lamsen as a Python Basics lab project. CyPass stands for Cybersecurity Password Auditor.
 
-Connect on LinkedIn: linkedin.com/in/your-profile
+Connect on LinkedIn: https://www.linkedin.com/in/jonathan-matthew-lamsen-2063b7285/
